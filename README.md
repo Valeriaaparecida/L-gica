@@ -7,7 +7,7 @@ Bem-vindo ao repositório de exercícios de lógica e conceitos de JavaScript. E
 
 ## Introdução
 
-Este repositório foi criado com o objetivo de fornecer exercícios práticos que ajudam a entender e aplicar conceitos de lógica e programação em JavaScript. Aqui você encontrará desde exercícios básicos até desafios mais avançados.
+Este repositório foi criado com o objetivo de registrar minha pratica de exercícios que ajudam a entender e aplicar conceitos de lógica e programação em JavaScript.
 
 
 
