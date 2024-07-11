@@ -16,4 +16,4 @@ function imprimirFibonacci(n) {
 }
 
 // Teste com n = 5 para imprimir os primeiros 5 números de Fibonacci
-imprimirFibonacci(55);
+imprimirFibonacci(5);
